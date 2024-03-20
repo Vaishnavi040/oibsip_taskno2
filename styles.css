@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #e9cbf0;
+}
+
+
+header {
+    background-color: #cc8cc0;
+    color: #120d0d;
+    text-align: center;
+}
+.header{
+    background-color: #e2acee;
+    text-align: center;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #242121;
+    text-decoration: none;
+    font-style: inherit;
+}
+
+main {
+    padding: 20px 0;
+}
+
+section {
+    margin-bottom: 40px;
+    
+}
+
+h2 {
+    color: #6b3c76;
+}
+
+.project {
+    margin-bottom: 20px;
+}
+
+
+footer {
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 20px 0;
+}
+
+#linkedin{
+    padding: 10px;
+}
+#Gmail{
+    padding: 10px;
+}
